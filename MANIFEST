@@ -1,0 +1,3 @@
+Makefile.PL
+MANIFEST
+lib/CGI/Session/Serialize/DataDumper.pm
